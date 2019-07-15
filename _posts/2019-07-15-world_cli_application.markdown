@@ -1,7 +1,7 @@
 ---
 layout: post
 title:      "World CLI Application"
-date:       2019-07-15 14:18:21 +0000
+date:       2019-07-15 10:18:22 -0400
 permalink:  world_cli_application
 ---
 
@@ -116,7 +116,5 @@ Record the pristine state as the first commit in the history.
 
 Once you are ready to share your work, you can host repository on github. Here is a nice article on how to do that. [How to create a repository](https://help.github.com/en/articles/create-a-repo).
 
-If you find this post useful, then great. If not, how can I make it useful to you as the reader?
-Thanks for reading...
-
+If you find this post useful, then great. If not, how can I make it useful to you as the reader? Here is link to my [repository](https://github.com/anahimana/world-cli).
 
